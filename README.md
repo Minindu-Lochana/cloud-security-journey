@@ -13,9 +13,9 @@ Starting from networking basics → building to cloud security engineer level.
 
 | Month | Focus | Status |
 |-------|-------|--------|
-| Month 1 | Linux, AWS fundamentals, IAM, EC2, S3, VPC | ✅ Complete |
-| Month 2 | Security services, GuardDuty, CloudTrail, KMS | 🔄 In progress |
-| Month 3 | Python scripts, projects, Security+ prep | ⏳ Upcoming |
+| Month 1 | Linux, AWS fundamentals, IAM, EC2, S3, VPC |  Complete |
+| Month 2 | Security services, GuardDuty, CloudTrail, KMS |  In progress |
+| Month 3 | Python scripts, projects, Security+ prep |  Upcoming |
 
 ## Projects
 
